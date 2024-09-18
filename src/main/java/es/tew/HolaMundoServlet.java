@@ -22,6 +22,6 @@ public class HolaMundoServlet extends HttpServlet{
         out.println("<BODY>");
         out.println("Bienvenido a mi primera página web! jejejejeje");
         out.println("</BODY></HTML>");
+        
     }
-
 }
